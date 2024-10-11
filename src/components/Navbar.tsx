@@ -15,7 +15,7 @@ const Navbar = () => {
       </div>
       <div className='text-2xl font-bold flex flex-row'>
         <Link href="/" className='underline'>PIZZA POINT</Link>
-        <Image src="/pizza.jpg" width={30} height={30} alt="pizza" />
+        <Image src="/pizza.jpg" width={30} height={30} alt="" />
         
       </div>
       <div className='md:hidden'>
